@@ -1,0 +1,19 @@
+galaxy_info:
+  author:              "Aishee Nguyen - SoulSec Team - Cyber Security Team"
+  description:         "Apply RHEL 7 CIS Baseline"
+  company:             "CMC SOC TEAM"
+  license:             Soul
+  min_ansible_version: 2.2
+
+  platforms:
+  - name:              EL
+    versions:
+      - 7
+
+  galaxy_tags:
+    - system
+    - security
+    - cis
+    - hardening
+
+dependencies:          []
